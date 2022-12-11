@@ -6,7 +6,7 @@ Medical knowledge is expanding. Keeping up is challenging. Learning opportunitie
 
 https://bsenst-speech-app-as8uoq.streamlit.app/
 
-![coverphoto](https://user-images.githubusercontent.com/8211411/206900941-1dac0b2c-5ef8-42a9-9233-f88979b10dd8.png)
+![coverphoto](https://user-images.githubusercontent.com/8211411/206901237-404ee004-13d5-47be-8d9e-5e8a6ee5866c.png)
 
 ## Disclaimer
 
