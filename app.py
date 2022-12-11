@@ -45,3 +45,6 @@ with st.expander("Question: A cocaine user has a weak handshake. These buzz word
     st.write("**Answer: Inclusion body myositis**")
     st.write("Tell me more:")
     st.write("*Inclusion body myositis (IBM) is a rare inflammatory muscle disease characterized by slowly progressive weakness and wasting of both distal and proximal muscles, most apparent in the muscles of the arms and legs. IBM is one of a group of muscle diseases known as the inflammatory myopathies, which are characterized by chronic, progressive muscle inflammation accompanied by muscle weakness.*")
+
+# questions and answers are copyright knowmedge
+# add link to github repo
