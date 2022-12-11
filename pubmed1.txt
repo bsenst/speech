@@ -1,0 +1,550 @@
+## Abstract
+
+COVID-19 associated VTE is a new disease entity with high morbidity and
+mortality. The aim of this paper is to review contemporary emerging literature
+on the incidence, pathophysiology, predictive prognostic indicators, and
+management consensus for Covid-19 related thrombotic complications, in
+particular DVT and PE.
+
+A literature review was performed according to the Preferred Reporting Items
+for Systematic Reviews and Meta-Analyses (PRISMA) statement. All searches were
+done via PubMed. References of review articles were further screened according
+to the exclusion criteria.
+
+In total, 154 records were identified and 20 duplicates were removed. A final
+68 articles were included in the qualitative analysis. COVID-19 related
+thrombosis can affect multiple organs of the body, presenting in the form of
+arterial or venous thrombosis such as ischemic stroke, myocardial infarction,
+mesenteric ischemia, limb ischemia, DVT, or PE. DVT and PE has an overall
+incidence of 6-26%, and severely ill COVID-19 patients have even higher
+incidence of thromboembolism. On the other hand, incidence of arterial
+thromboembolism is much lower with incidence of 0.7%-3.7%. D-dimer is found to
+be an independent risk factor, and IMPROVE score, Caprini score, and Padua
+score have all been used as predictors. International guidelines suggest the
+use of low molecular weight heparin (LMWH) or fondaparinux for prophylaxis of
+VTE, and therapeutic dosage of weight adjusted LMWH for treatment if confirmed
+diagnosis.
+
+Contemporary rapidly evolving evidence shows that COVID-19 associated
+thrombosis was a novel clinical entity, especially in severely ill COVID-19
+patients. There are multiple society-driven guidelines only, but without any
+level 1 evidence for management regimen. The ideal dose for prophylaxis is not
+established and may vary depending on balance of bleeding and thrombosis risk.
+The risk of bleeding may be increased in patients in intensive care unit.
+
+## Introduction
+
+Coronavirus disease 2019 (COVID-19) caused by severe acute respiratory
+syndrome coronavirus 2 (SARS-CoV-2) is responsible for the recent global
+pandemic, with cumulative number of cases reported globally exceeding 180
+million and the number of global deaths of almost four million on 29 June
+2021, and numbers are escalating. This new respiratory infectious disease was
+first identified in Wuhan, Hubei Provence in China in December 2019.1
+Pulmonary manifestations of COVID-19 are common and can present with dry
+cough, rhinorrhea, shortness of breath, and fever.2-4 The high infectivity of
+this disease and rapid deterioration observed in patients of all ages has
+raised global concerns on disease control and led to extensive research on
+tackling this unknown virus.
+
+Apart from pulmonary manifestations, the incidence of COVID-19 associated
+thrombosis is high, affecting both the arterial and venous systems of the
+body. The incidence of thrombotic complications is particularly prevalent in
+patients who are severely ill, especially in those who were admitted to
+intensive care units (ICU). Pulmonary embolism (PE) contributes to the
+majority of venous thromboembolism (VTE), followed by deep vein thrombosis
+(DVT).5 Higher risk of all-cause mortality is found in those who developed
+thrombotic complications.6 The pathophysiology behind the prevalence of
+COVID-19 thrombosis is not entirely clear. Some authors postulate that it
+triggers a similar coagulation cascade as the severe acute respiratory
+syndrome (SARS) virus, while others believe that SARS-CoV-2 has its own unique
+target receptors.
+
+The aim of this paper is to review contemporary emerging literature on the
+incidence, pathophysiology, predictive prognostic indicators, and management
+consensus for COVID-19 related thrombotic complications, in particular DVT and
+PE.
+
+## Methods
+
+We reviewed the literature on COVID-19 related thrombosis via PUBMED according
+to PRISMA criteria.7 The search was limited to articles published between
+first of December in 2019 and 30th of June in 2021, while excluding non-
+English and non-human trials. The following "free text" keywords for PUBMED
+were used: "covid," "covid-19," "coronavirus," "SARS-CoV-2," "thrombosis,"
+"predictors," "predictor," "predictive," "prognostic," "prognostic indicator,"
+"biomarker," and "biomarkers." Manual search using the bibliography from
+identified articles was performed.
+
+All observational studies or reports on COVID-19 were screened. Exclusion
+criteria included publications without full text, abstracts only, case reports
+with less than 5 cases, observational studies with less than 5 cases and non-
+English publications. All studies which met the selection criteria were
+reviewed independently by two authors (NM and YC). Discrepancies between the
+two reviewers were resolved by discussion and consensus. The data extracted
+include: incidence of thrombosis amongst patients with COVID-19,
+pathophysiology of the disease, predictive prognostic indicators in regards to
+morbidity and mortality, and suggested treatment consensus. The data was
+extracted manually and electronically tabulated into Microsoft Excel spread
+sheet for further analysis.
+
+Initial search on PUBMED yielded 154 studies. After removing 20 duplicates,
+134 abstracts were screened. Another 15 studies were excluded as they either
+had no full text available or were not available in English. Finally, 119 full
+texts were screened and 51 studies were excluded for being outside the topic
+of interest. Bibliography from the selected studies were screened to look for
+other suitable studies. In the end, 68 studies were selected, including four
+meta-analysis, 15 systematic reviews, 24 topic reviews, 20 observational
+studies in the form of either case series, case control or cohort studies, and
+5 case reports. The PRISMA diagram is shown in Figure 1.
+
+## Incidence
+
+COVID-19 related thrombosis can affect multiple organs of the body, presenting
+in the form of arterial or venous thrombosis such as ischemic stroke,
+myocardial infarction, mesenteric ischemia, limb ischemia, DVT, or PE.19 DVT
+and PE are the most frequently reported diagnoses amongst all thrombotic
+complications. A systematic review and meta-analysis by _Porfidia_ et al. 9
+reported the incidence of VTE amongst patients with COVID-19 to be 6-26%,
+including 12% of patient diagnosed with PE with or without DVT and 14% of
+patients with DVT alone. In a single center retrospective study from Milan14
+that included 388 patients who were diagnosed with COVID-19 within a 2-month
+period, it was suggested that despite the use of routine thrombo-prophylaxis
+with low molecular weight heparin, the incidence of venous thromboembolism was
+still up to 20%. A retrospective study conducted amongst COVID-19 patients
+admitted into intensive care units (ICU) showed that severely ill patients had
+even higher incidence of thromboembolism up to 69%.20 While another single
+center study reported 20-26.6% of patients admitted into ICU presented with
+pulmonary embolism.21 In a case series conducted in France, amongst COVID-19
+patients in ICU within a 1-month period, the incidence of PE was 20.6% versus
+7.5% compared to patients who were admitted to ICU in the same hospital due to
+influenza in 2019.22
+
+Moreover, matched cohorts between COVID-19 patients who developed acute
+respiratory distress syndrome (ARDS) with non-COVID-19 patients with ARDS
+revealed markedly higher incidence of 11.7% versus 2.7%, respectively, with
+odds ratio of 6.2.10 Those who developed thrombotic complications are found to
+have a higher risk of all-cause mortality with a hazard ratio of 5.4 (95% CI
+2.4-12).16
+
+On the other hand, the incidence of arterial thromboembolism is much lower
+than venous thromboembolism, ranging from 0.7% to 3.7%, in the form of
+ischemic stroke, acute coronary syndrome, limb ischemia, and mesenteric
+ischemia.10,11,14 A single centered retrospective study from Madrid including
+1419 patients with COVID-19 reported incidence of systemic arterial events to
+be 1%, including three patients who developed infrapopliteal arterial
+occlusion which were treated conservatively.23 Incidence of acute limb
+ischemia in COVID-19 patients was shown to be higher than that in non-COVID-19
+patients at 16.3% versus 1.8% from a comparative cohort study.12 A point to
+note when interpreting this study is that this study compared the incidence of
+acute limb ischemia over a 3-month period (January to March in 2020 vs 2019,
+respectively), and that three out of the 23 patients did not have COVID-19 in
+the 2020 group.
+
+## Pathophysiology
+
+SARS-CoV-2 predominantly enters cells via angiotensin converting enzyme (ACE)
+two inhibitors that are abundant in the lung and in the endothelium of blood
+vessels.24,25 This may cause a profound cytokine reaction, triggering an
+overexpression of tissue factors, localized intravascular coagulopathy, and
+dysregulation of the coagulation cascade, tipping more toward the thrombotic
+end.24,26-28This triggers an increase in coagulation factors, including Factor
+VIII and Von Willebrand factor (VWF).10 Elevated VWF and reduced ADAMTS-13
+indicate the promotion of microthrombi formation along with endothelial injury
+and coagulopathy.15 Continuous viral shedding encourages viremia, leading to a
+systemic inflammatory response and platelet activation. Severe inflammation
+may be reflected as lymphopenia and thrombocytopenia; while liver injury may
+be associated with decreased coagulation and antithrombin formation.29,30
+Comparing with the SARS virus, SARS-CoV-2 has 10 to 20 times higher affinity
+to ACE2 receptors.31 This uncontrolled trigger of the clotting cascade
+promotes thrombosis especially in the lung. As ACE2 receptors are also found
+in arterial endothelial cells, large amount of released interleukin-6 (IL-6)
+encourages inflammatory infiltrates to deposit throughout arterial walls
+causing endothelial activation and dysfunction.27 This is supported by recent
+autopsy studies on the histopathology of resected arterial segments in
+deceased COVID-19 patients which found abnormally large amount of inflammatory
+infiltrates and endothelial proliferation throughout the arterial walls.
+
+IL-6 and IL-17 were found to be positively correlated with COVID-19 disease
+progression and the former was found to be significantly raised in those who
+were critically ill, up to more than 10 times higher than normal population or
+patients with mild COVID-19 infection. This results in higher deposition of
+fibrin, damaging the parenchyma of the lungs.32 Moreover, IL-17 aggravates
+inflammatory levels and induce airway mucosal layers to produce chemokine
+ligand, granylocyte, and macrophage colony stimulating factors, causing
+granulocytes to infiltrate the lung.33,34 In addition, the binding of the
+virus to the pneumocytes will trigger a local immune response and cause a
+cytokine storm in the lung. This in turn may promote local thrombus formation
+in the pulmonary vessels, which is a different mechanism of pulmonary
+thrombosis distinct from emboli from the systemic venous circulation. This
+theory is supported by several autopsy findings. First, many patients with
+COVID-19 who developed PE do not have evidence of DVT.31 Second, autopsy
+studies also found thrombosis occurring within the pulmonary arterial
+circulation in the absence of apparent venous embolism.35,36 The proposed
+theory of an imbalance in proinflammatory status leading to increased
+inflammatory cells in vessels of the lung created doubts on treating these
+patient with standard medications for PE, such as prophylactic or therapeutic
+doses of anticoagulation as a usual practice. This was further supported by
+the fact that despite routine thrombo-prophylaxis amongst patients from
+Western countries, retrospective studies did not show a lower incidence in
+COVID-19 patients with VTE complications. Therefore, some clinicians suggest
+the usage of anti-inflammatory medications such as anti-cytokine drugs or
+angiotensin converting enzyme inhibitors (ACEI) to hasten the proinflammatory
+response instead of relying on anticoagulation alone.37
+
+## Predictive prognostic indicators and scoring systems
+
+D-dimer is a known marker of fibrin formation and pathological activation of
+the hemostatic pathway.38 Multiple observational studies have suggested that
+D-dimer is associated with worse morbidities and mortalities in COVID-19
+patients.39,40 It is also an independent risk factor for more ICU admissions,
+PE, ARDS, as well as mortality.41,42 Some authors suggested interpretation of
+local D-dimer assays with one cut-off for risk assessment. _Zhou_ et al.39
+proposed D-dimer >1 μg/mL was indicative of higher odds of death.43 _Yao_ et
+al.40 reported a D-dimer level of 6.21mg/L versus 1.02 mg/L between non-
+survivors and survivors of COVID-19, respectively.44 _Cui_ et al.41 suggested
+that D-dimer cut-off value of 1.51μg/mL had a sensitivity of 85% and
+specificity of 88.5% for predicting the incidence of VTE.8 On the other hand,
+some authors advocated the use of continuous levels of D-dimer to assess the
+severity of disease and predict the need for mechanical ventilation and other
+adverse outcomes.45,46 A recently published meta-analysis suggests that only
+D-dimer and age are predictive of thrombotic events in COVID-19 patients.47
+While another meta-analysis of 13 studies suggest at age >65 years, male
+gender, arterial hypertension, diabetes mellitus, cardiovascular disease, and
+respiratory disease are significant risk factors for severe COVID-19 and
+death.26 Major studies in which use of the D-dimer assay has been explored as
+a prognostic indicator are summarized in Table 2.
+
+More recently, a lymphocyte percentage-time model has been proposed to
+correlate the change of lymphocyte level with survival. Moderate disease can
+be predicted in patients who have lymphocyte percentage >20% within 10-20 days
+after onset of symptoms, whilst those with 5%-20% would have more severe
+symptoms. Those with <5% lymphocyte percentage would have a high risk of
+mortality.48
+
+There are various risk assessment models for venous thromboembolism,
+originally designated outside the context of COVID-19 associated thrombosis.
+International medical prevention registry on VTE (IMPROVE) score and Caprini
+score have been used to assess VTE risks in patients with active cancer and in
+surgical patients, respectively. It is suggested that these scoring systems
+could be applied in patients with COVID-19 as well. The former assessed seven
+risk factors including, active cancer, previous episode of VTE, thrombophilia,
+paralysis of the lower limbs, immobilization less than 7 days, admission to
+ICU or coronary care unit and age greater than 60 years old; presence of more
+than one risk factor increases the risk of symptomatic VTE to 7.2%.30,49
+Previous external validation has confirmed that IMPROVE score has good
+discrimination and calibration in identifying medical patients at risk of VTE,
+with area under receiving operating characteristic curve of 0.702.50 However,
+this study was not specific to COVID-19 patients. On the other hand, the
+Caprini score was originally developed for surgical patients to derive their
+VTE risks, stratifying them into "high risk group" (≥5 points), "moderate risk
+group" (3-4 points) and "low risk group" (2 points), respectively. This score
+takes into consideration factors such as age, sex, type of surgery performed,
+pre-existing venous disease, pre-existing medical diseases and recent
+comorbidities with known risks of further thrombosis.51 Each of these factors
+carry one score and the total score would put patients into the above-
+mentioned risk groups accordingly. This scoring system is practical and user-
+friendly as it is categorical and involves simple calculation.52 A
+retrospective study from Russia has found strong positive correlation between
+Caprini score of 168 patients with the incidence of symptomatic VTE and
+unfavorable outcomes including admission to ICU, requirement of invasive
+mechanical ventilation, and death. Padua prediction score (PPS)53 is a risk
+assessment model (RAM) created by modifying the initial Kucher's model, which
+is used to calculate the risks of VTE in hospitalized medical patients without
+medical prophylaxis.54 Risk factors such as active cancer, previous VTE,
+bedrest ≥3 days, and thrombophillia carry three points each; recent trauma or
+surgery (≤1 month) carries two points; age ≥70, heart or respiratory failure,
+acute myocardial infarction or ischemia stroke, active infection or
+rheumatological disorder, obesity with body mass index ≥30 kg/m2 and ongoing
+hormonal treatment carry one point each. Patients with PPS ≥4 is considered to
+have a high risk of developing VTE and should be prescribed with
+thrombopropohylaxis. PPS has also been found to be an independent risk factor
+for in-hospital mortality of COVID-19 patients. (OR 7.35, 95% confidence
+interval 3.08-16.01) Moreover, prophylactic anticoagulation in higher PPS
+patients showed mild advantage in mortality without statistical significance
+(37.1% versus 45,7%, _p_ = .42).55
+
+The COMPASS-COVID-19 score is validated to be used as a tool to evaluate the
+risk of worsening disease. It includes scoring according to the presence of
+obesity with BMI > 30, male gender, compensated DIC-ISTH score ≥5,
+thrombocytopenia (platelet count <100,000/μL), prothrombin time prolongation
+(>control +3 seconds), raised D-dimer, antithrombin decrease, protein C
+decrease, lymphocytes <109/L, and hemoglobin <11 g/dL. Each of these factors
+have different score bearing according to its presence and serum level if
+applicable.56
+
+## C reactive protein
+
+C-reactive protein (CRP) is known to be a biochemical marker of inflammation
+produced by the liver in response to mediators of inflammation.57 A systematic
+review on COVID-19 patients concluded that CRP is not only higher in patients
+who are critically ill, correlates with disease progression, and it is also
+higher in refractory patients compared to general patients.58-60 It is also
+shown to be one of the earliest markers to start rising in severe patients,
+compared to erythrocyte sedimentation rate (ESR) and computer tomography (CT)
+scores.61 Therefore, CRP correlated with disease progression and predicts
+severe COVID-19 at an early stage.59 Some studies even suggested the usage of
+CRP in conjunction with other biomarkers to predict COVID-19 severity.
+Increased CRP is common for thrombotic events, but it may not be a specific
+predictor for the severity of COVID-19 associated thrombosis.
+
+## New serological biomarkers
+
+A study from China suggested that some novel serological biomarkers may be
+related to the clinical progression of COVID-9 disease. This retrospective
+study looks into the relationship between blood levels of neutrophil-
+lymphocyte ratio (NLR), platelet-lymphocyte ratio (PLR), lymphocyte-monocyte
+ratio (LMR), derived neutrophil-lymphocyte ratio (dNLR), high sensitivity
+C-reactive protein-albumin ratio (HsCAR), albumin-to-fibrinogen ratio (AFR),
+prognostic nutritional index (PNI), systemic immune-inflammation index (SII),
+and high sensitivity C-reactive protein-prealbumin ratio (HsCPAR). Results
+showed that levels of NLR, PLR, HsCAR, dNLR, SII, and HxCPAR were
+significantly elevated in those with severe disease ( _p_ < .0001) compared to
+patients with mild to moderate disease, as well as with lower LMR, PNI, and
+AFR levels. These markers were incorporated to become a prognostic nomogram
+with concordance index (C-index) of 0.873 (95% CI: 0.808-0.938). These markers
+are however not routinely taken in usual hospital settings in the rest of the
+world and its cost effectiveness needs to be further elucidated.62
+
+Presepsin (PSP) is an existing biomarker for early diagnosis, risk
+stratification, and prognostic prediction of pneumonia.63,64 Due to the host-
+pathogen interaction, PSP exhibits a dose-response mechanism, aiding early
+recognition of patients with a predicted severe disease course for subsequent
+treatment.65,66 Higher serum concentrations of PSP was found to correlate with
+poorer outcomes and longer ICU stay. Furthermore, PSP was found to correlate
+well with procalcitonin (r = 0.72, _p_ < .001) but not with CRP (r = 0.59, _p_
+< .001).67
+
+## Prophylaxis
+
+The World Health Organization (WHO) published an interim guidance statement in
+January 2020 in the early phase of the discovery of COVID-19, suggesting that
+all patients with COVID-19 are considered to be at high risk of VTE.68
+Prophylactic anticoagulation should be administered to all patients admitted
+to hospitals in the form of either of the following: enoxaparin 40 mg
+subcutaneously (SC) daily, unfractionated heparin (UFH) 5000 IU SC twice daily
+or fondaparinux 2.5 mg daily SC, which should all be titrated against body
+mass index (BMI).68 LMWH and fondaparinux were favored over UFH to limit
+medical staff exposure and direct oral anticoagulants (DOACs) were found to
+interact with some of the antiviral regimens for COVID-19. Therefore, LMWH and
+fondaparinux are recommended as first line treatment for prophylaxis in
+acutely ill patients.69 Extended prophylaxis with either low molecular weight
+heparin (LMWH) or direct oral anticoagulation (DOAC) is also suggested up to
+45 days after discharge, while balancing the risks of bleeding.
+
+Chinese guideline recommendations are against the universal routine
+pharmacological thrombo-prophylaxis for all COVID-19 patients.70-72 The
+recommendation is to adopt the usage of Padua score, IMPROVE score, or Caprini
+score to stratify patients who present with mild or moderate symptoms into
+high or low risk of developing VTE and adopt an individualized plan for every
+patient.70 Pharmacological or mechanical thrombo-prophylaxis is only
+recommended for those who developed severe COVID-19 disease, with the use of
+LMWH as first line or unfractionated heparin in patients with renal
+impairment.
+
+American Multi-society guidelines recommend increased mobility for patients
+who are diagnosed with COVID-19 but without the need for hospitalization.30
+Indiscriminate use of pharmacological thrombo-prophylaxis is not recommended
+in the outpatient setting, but risk stratification should be used to select
+high risk VTE patients with low risk of bleeding to consider such therapy.30
+
+The Hospital Medicine Reengineering Network (HOMERuN) has conducted a study on
+reviewing existing local protocols on COVID-19 associated VTE at 21 academic
+medical centers in the United States.73 The suggestions that were made based
+on the percentage of consensus agreement amongst the submitted local
+protocols. There is 100% consensus agreement for the need of universal VTE
+prophylaxis for COVID-19 in-patients without contraindications, coherent with
+suggestions from CHEST guideline and Expert Panel Report.69 Those
+contraindicated to anticoagulation may be given mechanical prophylaxis
+instead. However, the dosage of suggested anticoagulation varied. Most authors
+suggested adopting usual therapeutic weight adjusted dosing for all patients
+while some suggested considering intensified dosage in patients with higher
+risk of developing VTE. These include patients with raised D-dimer, fibrinogen
+or simply clinically determined as having a higher risk, for example, in those
+who are critically ill, required mechanical ventilation, deteriorating,
+pregnant, with malignancy, or had history of coagulation problems before.73
+However, receiving a higher dosage of anticoagulation may incur higher or even
+life threatening risks of bleeding in certain groups of patients. A
+retrospective study looking into COVID-19 patients admitted into ICU within a
+1.5 months period revealed a 21% significant hemorrhage event after
+anticoagulation.74 Amongst these patients, 84% received a full dosage of
+anticoagulation including 50% of them not having a confirmed diagnosis of
+thrombosis beforehand. Results from this study raise concerns on the
+importance of establishing a definite diagnosis before starting therapeutic
+treatment, as bleeding complications may be severe, with 14% fatality and 64%
+requiring red blood cell transfusion. Giving full dosage of anticoagulation to
+all patients may result in more harm than good, and potential benefits of
+systemic anticoagulation need to be weighed against the risk of bleeding and
+therefore should be individualized. It is noted that bleeding complications
+are more common among intubated COVID-19 patients compared to non-intubated
+patients.27
+
+A large scale study involving more than 2770 patients hospitalized with
+COVID-19 in New York concluded that anticoagulation was shown to reduce
+mortality in patients who were mechanically ventilated (29.1% versus 62.7%).75
+Longer duration of anticoagulation given is also associated with reduced
+mortality (HR 0.86 per day, 95% CI 0.82-0.89, _p_ < .001). Overall, there is
+no difference detected in this cohort regarding in-hospital mortality amongst
+patients with and without anticoagulation.
+
+## Diagnosis
+
+Amongst the Chinese guidelines, radiological imaging is necessary only if
+there is clinical suspicion of VTE.71,72 Viscoelastic tests such as
+thromboelastography (TEG) or coagulation and platelet function analyzers may
+serve to aid diagnosis if local resources are available.72 Routine screening
+for VTE for hospitalized patients with elevated D-dimer but without relevant
+symptoms is not recommended.30 This is in concordance with the suggestions
+from the National Institute of Health (NIH) guidelines for COVID-19. There is
+insufficient data to recommend for or against the usage of routine hematologic
+and coagulation parameters to guide all management decisions.76 Routine
+screening of VTE is difficult and not practical, with concerns regarding risk
+of transmitting infection during diagnostic procedures, as well as in
+situations when patients are in critical condition such as ARDS. Amongst
+HOMERuN guidelines, there is no consensus on whether diagnostic radiological
+tests should be enforced routinely as screening or arranged according to
+clinical suspicion. Some clinicians suggest the usage of bedside tests over
+conventional CT or ultrasound at radiology department to minimize risks of
+infection spreading.73
+
+## Treatment
+
+According to the WHO guidelines, in the setting of confirmed VTE, increased
+dosage of anticoagulation as compared to standard therapeutic regimen is not
+recommended.68 For confirmed VTE, HOMERuN guidelines suggested therapeutic
+doses of LMWH or UFH as of other major guidelines, for a total duration of 3
+months.69,73 Some recommended prescribing therapeutic doses to patients who
+had high index of suspicion despite being unable to undergo diagnostic tests
+for confirmation.73 71% of protocols recommended monitoring complete blood
+count, prothrombin time, activated partial thromboplastin time, D-dimer, and
+fibrinogen, in corporation with the presence of any bleeding symptoms to guide
+treatment and determine whether transfusion or anticoagulation is needed.
+
+CHEST guidelines and expert panel report suggested giving therapeutic weight
+adjusted LMWH or UFH for diagnosed proximal DVT or PE.69 For those treated as
+outpatient setting for similar thrombotic complications, Direct oral
+anticoagulant (DOAC)s such as apixaban, dabigatran, rivaroxaban, or endoxaban
+may be considered, given no drug-drug interactions. However, if there is
+recurrence of VTE whilst on DOACs, it is suggested to change to therapeutic
+dose of LMWH instead. While for those who are already on LMWH, they may have
+an increased dosage by 25%-30%. For those who develop PE with hypotension,
+systemic thrombolysis can be regarded as superior to without treatment in
+patients deemed not to have high risk of bleeding.
+
+Due to scarcity of resources, the International Union of Phlebology in
+conjunction with the Australasian College of Phlebology initiated the Venous
+and Lymphatic Triage and Acuity Scale (VELTAS) to triage patients with VTE
+into different urgency levels to be treated.77 It serves as a general
+guideline for patients diagnosed with VTE, not limited to those with COVID-19.
+Patients with different clinical diagnosis are classified into "medical
+emergency," "urgent," "semi-urgent," and "non-urgent."77 Those with massive
+PE, acute iliofermoral DVT with phlegmasia, acute central vein thrombosis with
+superior vena cava syndrome, or venous gangrene should be attended
+"immediately." While others with chronic venous obstructive symptoms or those
+who are stable and asymptomatic may be seen less urgently.
+
+In 2021, the VAS-European Independent Foundation in Angiology/Vascular
+Medicine has issued a position paper to guide the management of COVID-19
+patients with vascular disease or cardiovascular risk factors.78 Similar to
+other major guidelines, they suggest the use of LMWH as first line and reserve
+UFH as second line for those with renal insufficieny. They suggest that
+monitoring of effect should be by measuring anti-Xa levels rather than APTT.
+DOAC including apixaban, betrixaban, endoxaban, and rivaroxaban are acceptable
+as treatment and secondary prevention of VTE. They are contraindicated in
+patients with creatinine clearance (Crcl) lower than 15 mL/min and dose
+adjustment is needed in those with Crcl between 15 and 50 mL/min. Dalteparin
+or tinzaparin is more suggested for this group of patients. Antiplatelet
+treatment including aspirin, clopidogrel is suggested for secondary prevention
+of arterial thrombosis. Aspirin is the option in those with cardiovascular
+risk factors. As dyslipidemia is another risk factor associated with
+cardiovascular disorders and cholesterol plays a part in regulating the immune
+response, some postulate that statin treatment might improve endothelial and
+vascular functions. However, inadequate results are available at present for a
+sound conclusion.
+
+## Discussion
+
+COVID-19 associated VTE is a novel emerging disease entity with high morbidity
+and mortality. The development of PE and DVT are common with frequent
+complications and high associated mortality rates. Currently, due to the new
+discoveries surrounding COVID-19 disease everyday, international guidelines
+are being updated frequently. Therefore, there is no universally agreed
+guidelines for diagnosis, outcome prediction, or management. Many national
+studies have been published to suggest suitable and cost effective guidelines
+to aid resource allocation and the management of COVID-19. The aim of this
+paper is to review contemporary emerging literature on the incidence,
+pathophysiology, predictive prognostic indicators, and management consensus
+for Covid-19 related thrombotic complications, in particular DVT and PE.
+
+SARS-CoV-2 leads to a high incidence of thrombosis, due to the following
+reasons: First, the virus has a distinct high affinity to ACE2 inhibitors
+which are abundant in the lung. This in turn leads to profound cytokine
+reaction in the endothelium of the lung after viral invasion. Secondly, the
+triggered overexpression of tissue factors including Factor VIII, VWF, IL-6,
+and IL-17, together with decreased ADALTS-13 causes endothelial injury.
+Thirdly, this dysregulation of coagulation cascade and intravascular
+coagulopathy leads to acute thrombosis.
+
+As the disease has only been around since the end of 2019, there are still
+many unanswered questions regarding COVID-19 and its presentation,
+complications, and treatment. The definite cause of pulmonary embolism is
+still not well understood, whether it is from primary thrombosis in the lung
+or as a result of a propagating embolism from elsewhere. The occurrence and
+outcomes of VTE is further complicated by the following factors: first, it is
+well known that ethnicity played an important role in affecting the occurrence
+of VTE. African-Americans have a significantly higher rate of VTE, Europeans
+have more genetic thrombotic disorders, and environmental factors should also
+be taken into consideration.79,80 Whether these factors matter or can be
+directly applied to COVID-19 patients need to be further elucidated. Secondly,
+studies from different countries on incidence and outcomes of patients with
+VTE may not be comparable as individual countries have different local
+thrombo-prophylactic regimens and protocols. Thirdly, the incidence of VTE is
+in fact determined by the availability of diagnostic tests and also the
+threshold of ordering such tests. Some asymptomatic patients may have been
+under-diagnosed. Difference in incidence amongst patients in different studies
+may be affected by resource availability and whether screening tests are
+enforced instead of triggered by presentation and clinical suspicion. DVT may
+be difficult to be diagnosed via duplex ultrasound in patients who are sedated
+or are obese. Performing Computer Tomography (CT) in patients on mechanical
+ventilation may also be challenging and carries high risk of contamination.
+Therefore, it is not practical to send every patient for investigation for
+VTE. A French study found that in patients who were suspected to have PE, 75%
+of CT scans were in fact negative.10
+
+As this is a new disease entity, the development on prediction scores for
+COVID-19 thrombosis detection is still underway. The high frequency of VTE in
+critically ill patients and its association with high mortality suggests that
+early diagnosis and treatment is definitely warranted. D-dimer has been proven
+by multiple studies to be associated with higher morbidity and mortality in
+COVID-19 patients. However, there are pitfalls when interpreting D-dimer.
+First, raised D-dimer does not always indicate the presence of PE or DVT. It
+is well known to be a marker of clot formation or an abnormally raised level
+of fibrin degradation products.81 It can also be elevated after recent
+surgery, trauma, sepsis, malignancy, pregnancy, or liver diseases. Therefore,
+it is traditionally suggested not to be used as a screening tool for VTE, or
+to be adopted as an adjunct to diagnosis due to its high sensitivity but low
+specificity.82 Recently, there has been evolving studies on using simple
+clotting profile and C-reactive protein (CRP) as markers for predicting VTE in
+combination with D-dimer. However, the efficacy and usage of such a
+combination require further investigation.
+
+Despite worldwide efforts on studying COVID-19, there are many unanswered
+questions regarding the management of COVID-19 associated complications. Our
+study has several limitations. As a novel entity, existing studies all have
+relatively small sample size, and the majority of these studies are single
+center cohorts involving patients of one ethnicity. Individual institution may
+have different guidelines and practice in terms of diagnosis, patient
+stratification, and treatment. The predictive risk scores are not specific to
+patients with COVID-19, and therefore direct comparison for outcome
+measurement may be difficult. All of the studies so far are retrospective in
+nature, further prospective trials may be conducted to delineate different
+treatment outcomes and their required dosage and duration amongst patients of
+all age groups and ethnicity.
+
+Therefore, in conclusion, this paper showed that COVID-19 associated
+thrombosis is an important clinical entity with high incidence and a
+significant burden on medical services. Consensus for prophylaxis, diagnosis,
+and treatment vary between localities due to individual experience, practice,
+and availability of resources. Our knowledge on COVID-19 associated thrombosis
+is rapidly expanding, and inevitably more prospective studies are warranted to
+discover more evidence-based suggestions to formulate management regime for
+the new clinical entity.

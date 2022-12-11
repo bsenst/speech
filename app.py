@@ -1,31 +1,47 @@
+import json
+import requests
 import streamlit as st
-import cohere
-import os
-import time
+import streamlit.components.v1 as components
 
-key = os.environ.get("cohere")
-co = cohere.Client(key)
+# https://discuss.streamlit.io/t/displaying-multiple-tweets-on-streamlit/25650
+# https://discuss.streamlit.io/t/dispalying-a-tweet/16061/2
+class Tweet(object):
+    def __init__(self, s, embed_str=False):
+        if not embed_str:
+            # Use Twitter's oEmbed API
+            # https://dev.twitter.com/web/embedded-tweets
+            api = "https://publish.twitter.com/oembed?url={}".format(s)
+            response = requests.get(api, timeout=5)
+            self.text = response.json()["html"]
+        else:
+            self.text = s
 
-prompt = st.text_area('Text to summarize', '''COVID-19 related thrombosis does not appear to be limited to the venous circulation. A single-center cohort study found significantly increased rates of acute limb ischemia in patients with COVID-19 (16.3%) from January 2020 to March 2020, compared to patients without COVID-19 (1.8%) presenting from January 2019 to March 2019.38 Generally, young age and female gender are risk factors associated with hypercoagulable disorders, however, in patients with COVID-19, native arterial occlusions were observed in both younger and older individuals, and more often in males.38 Additionally, the macroscopic appearance of thrombosis specimens in these patients was quite different than pre-COVID-19 specimens, as they were much more gelatinous and longer than typical thrombi, an observed hallmark of COVID-19 thrombi.38 Both observations suggest that the increased rates of acute limb ischemia are likely not related to well-known hypercoagulability disorders, but due to COVID-19 infection. Coronary thrombosis also has been reported in patients with COVID-19.39 Coronary angiography in this particular case revealed multivessel thrombotic stenosis believed to be in situ thrombosis, since no significant atheroma was found and thrombus of the left anterior descending was non-occlusive (60%) making a coronary embolus unlikely.39 These findings imply a COVID-19 coagulopathy as the cause of thrombosis and provide further evidence that thrombotic complications of COVID-19 are not limited to the venous vasculature.''')
+    def _repr_html_(self):
+        return self.text
 
-max_tokens = st.sidebar.slider("Tokens", min_value=10, max_value=100, value=10, step=10)
-temperature = st.sidebar.slider("Temperature", min_value=0.0, max_value=1.0, value=0.5, step=0.1)
+    def component(self):
+        return components.html(self.text, height=300)
 
-response = co.generate( 
-    model='xlarge', 
-    prompt = prompt,
-    max_tokens=max_tokens, 
-    temperature=temperature,
-    stop_sequences=["--"])
+st.header("Know more about the last Q&A Session")
 
-summary = response.generations[0].text
-summary = summary[:summary.rindex(".")+1] # remove incomplete sentence at the end
+# make dynamic - not static url
+col1, col2, col3 = st.columns([1,6,1])
+with col1: st.write("")
+with col2: t = Tweet("https://twitter.com/knowmedge/status/1601627902054871040").component()
+with col3: st.write("")
 
-st.write(summary)
+if st.button("Tell me more about the last Q&A Session"):
+    # load tellmore json
+    with open("content.json", "r", encoding="utf-8") as infile:
+        content = json.load(infile)
+    
+    for entry in content:
+        with st.expander(entry[0]):
+            st.write("**"+entry[1]+"**")
+            st.write("Tell me more:")
+            st.write("*"+entry[2]+"*")        
 
-# https://stackoverflow.com/questions/21470318/python-code-output-to-a-file-and-add-timestamp-to-filename
-t = time.localtime()
-timestamp = time.strftime('%b-%d-%Y_%H%M', t)
-
-# with open(f"../summary-{timestamp}.txt", "w", encoding="utf-8") as outfile:
-#    outfile.write(summary)"""
+with st.expander("Question: A cocaine user has a weak handshake. These buzz words are clues to what rheumatological condition? "):
+    st.write("**Answer: Inclusion body myositis**")
+    st.write("Tell me more:")
+    st.write("*Inclusion body myositis (IBM) is a rare inflammatory muscle disease characterized by slowly progressive weakness and wasting of both distal and proximal muscles, most apparent in the muscles of the arms and legs. IBM is one of a group of muscle diseases known as the inflammatory myopathies, which are characterized by chronic, progressive muscle inflammation accompanied by muscle weakness.*")
