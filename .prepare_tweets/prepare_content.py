@@ -33,9 +33,9 @@ for i in range(len(questions)):
     
     generated = tellmore.generations[0].text
     
-    line = [questions[i].replace("\n", "")]
-    line.append(answers[i].replace("\n", ""))
-    line.append(generated[:generated.rindex(".")+1].strip().replace("\n", ""))
+    line = [questions[i].replace("\n", " ")]
+    line.append(answers[i].replace("\n", " "))
+    line.append(generated[:generated.rindex(".")+1].strip().replace("\n", " "))
     content.append(line)
 
     # print(*line, sep="\n")
