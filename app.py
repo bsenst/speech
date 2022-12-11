@@ -30,6 +30,8 @@ with col1: st.write("")
 with col2: t = Tweet("https://twitter.com/knowmedge/status/1601627902054871040").component()
 with col3: st.write("")
 
+st.caption("Questions and Answers are publically available on Twitter. Copyrights by @Knowmedge. Additional content automatically generated using the cohere.ai API.")
+
 if st.button("Tell me more about the last Q&A Session"):
     # load tellmore json
     with open("content.json", "r", encoding="utf-8") as infile:
@@ -39,12 +41,11 @@ if st.button("Tell me more about the last Q&A Session"):
         with st.expander(entry[0]):
             st.write("**"+entry[1]+"**")
             st.write("Tell me more:")
-            st.write("*"+entry[2]+"*")        
+            st.write("*"+entry[2].replace("\n", "")+"*")
 
 with st.expander("Question: A cocaine user has a weak handshake. These buzz words are clues to what rheumatological condition? "):
     st.write("**Answer: Inclusion body myositis**")
     st.write("Tell me more:")
     st.write("*Inclusion body myositis (IBM) is a rare inflammatory muscle disease characterized by slowly progressive weakness and wasting of both distal and proximal muscles, most apparent in the muscles of the arms and legs. IBM is one of a group of muscle diseases known as the inflammatory myopathies, which are characterized by chronic, progressive muscle inflammation accompanied by muscle weakness.*")
 
-# questions and answers are copyright knowmedge
 # add link to github repo
