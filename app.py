@@ -43,8 +43,8 @@ if st.button("Tell me more about the last Q&A Session"):
             st.write("Tell me more:")
             st.write("*"+entry[2].replace("\n", " ")+"*")
 
-with st.expander("Question: A cocaine user has a weak handshake. These buzz words are clues to what rheumatological condition? "):
-    st.write("**Answer: Inclusion body myositis**")
+with st.expander("A cocaine user has a weak handshake. These buzz words are clues to what rheumatological condition? "):
+    st.write("**Inclusion body myositis**")
     st.write("Tell me more:")
     st.write("*Inclusion body myositis (IBM) is a rare inflammatory muscle disease characterized by slowly progressive weakness and wasting of both distal and proximal muscles, most apparent in the muscles of the arms and legs. IBM is one of a group of muscle diseases known as the inflammatory myopathies, which are characterized by chronic, progressive muscle inflammation accompanied by muscle weakness.*")
 
